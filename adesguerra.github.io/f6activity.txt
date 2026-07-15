@@ -1,0 +1,6 @@
+Compared to manual file management, Git makes it easier to track
+changes and maintain the history of every version of the project.
+It reduces the risk of losing every changes installed on your
+project and allows collaborative process between members. Git 
+provides tools in comparing changes and restoring previous 
+versions when needed. 
